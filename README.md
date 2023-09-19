@@ -72,4 +72,4 @@ You can reach me via email at [thomas.balsalobre@edu.ece.fr
 ](mailto:)
 
 
-Feel free to replace `<repository_url>` with the actual URL of your Git repository when sharing this Markdown file. This Markdown document is written in English and includes sections for installation, project description, game rules, usage instructions, project status, and contact information.
+Feel free to replace `https://github.com/thomhasito/checkersAI.git` with the actual URL of your Git repository when sharing this Markdown file. This Markdown document is written in English and includes sections for installation, project description, game rules, usage instructions, project status, and contact information.
