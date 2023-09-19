@@ -3,7 +3,7 @@
 To install the project, simply clone the repository to your machine.
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/thomhasito/checkersAI.git
 ```
 
 ## Description
@@ -19,7 +19,7 @@ The game follows the standard rules of Checkers. You can find the complete rules
 This project is designed to run with Python 3.8 or later. To play the game, simply execute the following command:
 
 ```bash
-python3.8 main.py
+python3 main.py
 ```
 
 ## Project File Structure
@@ -31,9 +31,7 @@ The project is organized with the following directory structure:
 - assets/
   - fonts/
     Empty folder for fonts. Feel free to add your own fonts to this folder.
-  - images/
-    - `jeuDame.jpeg`: Background image for the game's menu.
-    - `queen_crown.png`: Image for the queen piece.
+  - image/
     Warning: The images for the pieces are not mine. I found them on the internet and I do not own them. I decided to not include them in the repository to avoid any illegal issues.
 - data/
   - json/
